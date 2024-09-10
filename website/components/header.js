@@ -24,7 +24,7 @@ export default function Header({ userSignedIn, username, karma, goto, pageName, 
                     <td className="header-links">
                         <span className="header-links-items">
                             <b className="header-links-name">
-                                <Link href="/news">HeckarNews</Link>
+                                <Link href="/news">MoreWrong</Link>
                             </b>
                             <Link href="/newest">new</Link>
                             <span> | </span>
